@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927405646574",
+    "firebase_url": "https://auth-ce30b.firebaseio.com",
+    "project_id": "auth-ce30b",
+    "storage_bucket": "auth-ce30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927405646574:android:6141e356e89d297ded49ff",
+        "android_client_info": {
+          "package_name": "com.rohitbakoliya.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927405646574-i4j1nlla6sca4b048h4ebted3t5bneds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcaO1Zd2VqhY83GWjQiW_MsTR7tsH4qh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927405646574-i4j1nlla6sca4b048h4ebted3t5bneds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

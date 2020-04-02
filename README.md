@@ -1,4 +1,5 @@
-# auth
+# Find Your Book
+> It is a Smart India Hackathon(SSIP Gujarat) Project
 
 A new Flutter project.
 

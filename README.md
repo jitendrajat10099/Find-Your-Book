@@ -10,7 +10,7 @@
 
 **<a name="about"></a>About the Project**
 
-This is a digital platform for sharing books in an organization. The project is created using flutter framework and firebase services. Google authentication is used for validation of an account. There is also a recommendation system for a particular subject. If student is not aware of subject then this system is useful for him/her. A form is created for adding new book. We can search a book by it&#39;s name from home page.
+This is a digital platform for sharing books in an organization. The project is created using the flutter SDK and firebase services. Google authentication is used for the validation of an account. Once the user is logged in then he/she can look for the available books uploaded by other students. Users can also see the contact details of donors and he/she can make a request for a book then E-mail is sent to the donor of the book with details of the requested user. Users can also contribute by adding their books.
 
 **<a name="glimpse"></a>Some Glimpses of Project**
 
